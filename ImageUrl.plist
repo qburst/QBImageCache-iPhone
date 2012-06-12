@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Flower</string>
+		<key>URL</key>
+		<string>http://www.dynamicdrive.com/dynamicindex4/lightbox2/flower.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Book</string>
+		<key>URL</key>
+		<string>http://3.bp.blogspot.com/-E3p59qB4CT0/TWExVLSOjVI/AAAAAAAAEYE/6OMVq04LBQQ/s1600/books2.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Sunset</string>
+		<key>URL</key>
+		<string>http://www.dam7.com/Images/Sunsets/images/myspace-sunset-images-dam7-0002.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Lotus</string>
+		<key>URL</key>
+		<string>http://www.teachenglishinasia.net/files/u2/purple_lotus_flower.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Solar garden</string>
+		<key>URL</key>
+		<string>http://www.scinternet.net/~sunsource/ebay_photos/light_solar_garden_flicker.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Birds</string>
+		<key>URL</key>
+		<string>http://www.msdlouky.org/images/birds/flicker.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mex Fobos</string>
+		<key>URL</key>
+		<string>http://hirise.lpl.arizona.edu/HiBlog/wp-content/uploads/2008/03/mex_phobos.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Bee</string>
+		<key>URL</key>
+		<string>http://blogs.theage.com.au/schembri/bee.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Easter</string>
+		<key>URL</key>
+		<string>http://www.goodlightscraps.com/content/easter-images/easter-comments-3.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Cat</string>
+		<key>URL</key>
+		<string>http://www.catfacts.org/american-bobtail-cat-facts.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Car</string>
+		<key>URL</key>
+		<string>http://noconsensus.files.wordpress.com/2009/09/smart-car1.jpg</string>
+	</dict>
+</array>
+</plist>
